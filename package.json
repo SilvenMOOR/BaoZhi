@@ -1,0 +1,27 @@
+{
+  "devDependencies": {
+    "@types/node": "^20.11.30"
+  },
+  "dependencies": {
+    "json-2-csv": "^5.5.1"
+  },
+  "name": "baozhi",
+  "version": "1.0.0",
+  "main": "app.ts",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@moor:SilvenMOOR/BaoZhi.git"
+  },
+  "keywords": [
+    "SilvenLEAF"
+  ],
+  "author": "SilvenLEAF <SilvenLEAF@gmail.com>",
+  "license": "MIT",
+  "description": ""
+}
